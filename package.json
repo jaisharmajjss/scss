@@ -1,0 +1,14 @@
+{
+  "name": "scss",
+  "version": "1.0.0",
+  "description": "learning scss",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "jai",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.14.0"
+  }
+}

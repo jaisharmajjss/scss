@@ -1,10 +1,11 @@
 .footer{
-    background: rgb(50, 47, 85);
+    background: rgb(109, 104, 167);
     height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
     & *{
         color: #fff;
+        
     }
 }
